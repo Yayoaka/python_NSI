@@ -11,19 +11,3 @@ série d'exercice sur turtle
 |-----------|-----------|-----------|
 | cellule 1 | cellule 2 | cellule 3 |
 |           |           |           |
-
-::: tip Titre
-Texte
-:::
-
-::: warning Titre
-Texte
-:::
-
-::: danger Titre
-Texte
-:::
-
-::: details Titre
-Texte
-:::

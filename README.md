@@ -11,4 +11,3 @@ série d'exercice sur turtle
 |-----------|-----------|-----------|
 | cellule 1 | cellule 2 | cellule 3 |
 |           |           |           |
-|           |           |           |

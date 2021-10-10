@@ -7,7 +7,7 @@ def operation_3(a,b,c):
 i=5
 j=1
 k=2
-resultat_1=operation_1(i,j,k)+opration_3(k,i,j)
+resultat_1=operation_1(i,j,k)+operation_3(k,i,j)
 if i!=resultat_1:
     resultat_2=resultat_1+operation_2(k,j,i)
 else:
